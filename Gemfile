@@ -26,8 +26,8 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails' # Add this line if you use Rails 5.1
 
-
-
+#faker
+gem 'faker'
 
 
 # Use CoffeeScript for .coffee assets and views
